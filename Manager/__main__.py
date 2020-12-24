@@ -62,6 +62,12 @@ DATA_EXPORT = []
 CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
+START_GIF = os.environ.get('START_GIF', None)
+if START_GIF is None:
+    img = "https://telegra.ph/file/3a7cc940468301698cf53.gif"
+else:
+  img = START_GIF 
+
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("Manager.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
