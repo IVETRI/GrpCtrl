@@ -1,9 +1,24 @@
-# Manager
-🔃
+### @GRPCTRLBot // http://www.telegram.dog/GRPCTRLBot
+🤖🤖🤖
+
+I Product Your Group 🌐 Safe.
+
+### Click Below Image to Deploy
+[![Deploy](https://telegra.ph/file/3a7cc940468301698cf53.gif)](https://heroku.com/deploy?template=https://github.com/IVETRI/GRPCTRL.git)
 
 ## DEPLOY
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xditya/Manager.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/IVETRI/GRPCTRL.git)
 
-## Tutorial
-Watch on [YouTube](https://youtu.be/gXXFpTAk6Vo)
+A modular Telegram Python bot running on python3 with an sqlalchemy database.
+
+Can be found on telegram as [GrpCtrl](https://t.me/GRPCTRLbot).
+
+Alternatively, [find me on telegram](https://t.me/IMVETRI)! (Keep all support questions in the support chat, where more people can help you.)
+
+# Group
+You can also join our support group [here!](https://t.me/teamnoway)
+
+# Report error
+Report your problem along with your name to [this person](https://t.me/IMVETRI)
+
 
