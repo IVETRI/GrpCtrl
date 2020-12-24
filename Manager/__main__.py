@@ -28,7 +28,7 @@ I'm control your group to avoiding traders, spammers, 🔞!
 here to help you get around and keep the order in your groups!
 Press /help to continue...
 
-*My Developer is**[VETRI 🇮🇳](t.me/IMVETRI)*
+*My Developer is *[VETRI in](t.me/IMVETRI)*
 
 """
 
@@ -49,7 +49,7 @@ Pls note that this repo is based on Saitama Bot and GroupManager Bot.
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @xditya."""
+DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @iMvEtRi."""
 
 IMPORTED = {}
 MIGRATEABLE = []
