@@ -60,13 +60,7 @@ DATA_IMPORT = []
 DATA_EXPORT = []
 
 CHAT_SETTINGS = {}
-USER_SETTINGS = {}
-
-START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
-    img = "https://telegra.ph/file/3a7cc940468301698cf53.gif"
-else:
-  img = START_IMG 
+USER_SETTINGS = {} 
 
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("Manager.modules." + module_name)
