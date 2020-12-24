@@ -28,7 +28,11 @@ I'm control your group to avoiding traders, spammers, 🔞!
 here to help you get around and keep the order in your groups!
 Press /help to continue...
 
-*My Developer is *[VETRI in](t.me/IMVETRI)*
+
+
+Deploy a bot like me [now](www.github.com/ivetri/GrpCtrl)
+
+*My Developer is [VETRI 🇮🇳](t.me/iMvEtRi)*
 
 """
 
