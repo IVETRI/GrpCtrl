@@ -20,26 +20,29 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hey! {}, IM {}!
 
+Product Your Group 🌐 Safe With Me!
 You know how hard it is sometimes to manage group so here is the solution for you.
+I'm control your group to avoiding traders, spammers, 🔞!  
+here to help you get around and keep the order in your groups!
+Press /help to continue...
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+*My Developer is**[VETRI 🇮🇳](t.me/IMVETRI)*
 
-Click /help or Help button below to find out more about how to use me to my full potential.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-Group Management Bot with advanced features. 
+Hello there! It's *{}*.
+*Grp Ctrl Bot* with advanced features. 
 *Main* commands available:
- - /start: start the bot
- - /help: PM's you this message.
- - /help <module name>: PM's you info about that module.
- - /donate: information about how to donate!
- - /settings:
-   - in PM: will send you your settings for all supported modules.
-   - in a group: will redirect you to pm, with all that chat's settings.
+💠 - /start: _start the bot_
+💠 - /help: _PM's you this message._
+💠 - /help <module name>: _PM's you info about that module._
+💠 - /donate: _information about how to donate!_
+💠 - /settings:
+  ✨ - _in PM: will send you your settings for all supported modules._
+  ✨ - _in a group: will redirect you to pm, with all that chat's settings._
  
 Pls note that this repo is based on Saitama Bot and GroupManager Bot.
 
